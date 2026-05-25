@@ -2,8 +2,6 @@
 
 Engineering notes and technical articles focused on backend systems, software architecture, and pragmatic .NET development.
 
-![Multi-tenant .NET Architecture](images/multi-tenant-beyond-tenantid-cover.png)
-
 ## Topics
 
 - .NET

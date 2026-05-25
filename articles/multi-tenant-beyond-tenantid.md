@@ -1,5 +1,7 @@
 # Multi-tenant além do TenantId: problemas reais e aprendizados em sistemas .NET
 
+![Multi-tenant .NET Architecture](../images/multi-tenant-beyond-tenantid-cover.png)
+
 Em muitos sistemas SaaS, a estratégia multi-tenant começa de forma extremamente simples: adicionamos uma coluna `TenantId` nas tabelas e seguimos o desenvolvimento normalmente.
 
 O problema é que o desafio nunca foi adicionar a coluna.
